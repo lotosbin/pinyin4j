@@ -3,3 +3,4 @@
  */
 
 rootProject.name = 'pinyin4j'
+include(":pinyin4j-android")
